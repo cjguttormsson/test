@@ -7,4 +7,5 @@ def my_test2(var):
 
 if __name__ == '__main__':
     my_test()
+
     my_test2("hey!")
